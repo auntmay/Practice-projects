@@ -47,6 +47,10 @@ The company, which owns a mobile and desktop app, began experiencing financial l
 ---
 
 ## 🚀 Final Outcomes:
-The analysis was successfully conducted following the plan, and conclusions were drawn based on the data. These insights were validated by a senior data analyst, and actionable recommendations were delivered to the marketing department.
+1. Having analyzed ROI, RR, CR, investments in the context of channels and their dynamics, I found an inefficient traffic channel in which investments were systematically increased.
+
+2. Highlighted a list of promising traffic channels, taking into account all the risks.
+
+3. Formed recommendations for the marketing department to increase the return on advertising investments.
 
 ---
